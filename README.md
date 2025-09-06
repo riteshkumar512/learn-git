@@ -3,7 +3,7 @@
  <br>
  Author- Ritesh kumar
 
- # Teaher
+ # Teacher
  Shradha Khapra
  # Student
  Ritesh Kumar
